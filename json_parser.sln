@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "json_parser", "json_parser\json_parser.csproj", "{855020CD-5618-4C9E-8C4E-EC00C22F76AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{855020CD-5618-4C9E-8C4E-EC00C22F76AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855020CD-5618-4C9E-8C4E-EC00C22F76AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855020CD-5618-4C9E-8C4E-EC00C22F76AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855020CD-5618-4C9E-8C4E-EC00C22F76AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AABEA94-C3E8-434F-B893-F31A31A4839D}
+	EndGlobalSection
+EndGlobal

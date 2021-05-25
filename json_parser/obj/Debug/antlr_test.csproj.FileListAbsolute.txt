@@ -1,0 +1,9 @@
+C:\Users\jlips\documents\visual studio 2017\Projects\antlr_test\antlr_test\bin\Debug\antlr_test.exe.config
+C:\Users\jlips\documents\visual studio 2017\Projects\antlr_test\antlr_test\bin\Debug\antlr_test.exe
+C:\Users\jlips\documents\visual studio 2017\Projects\antlr_test\antlr_test\bin\Debug\antlr_test.pdb
+C:\Users\jlips\documents\visual studio 2017\Projects\antlr_test\antlr_test\obj\Debug\antlr_test.csprojResolveAssemblyReference.cache
+C:\Users\jlips\documents\visual studio 2017\Projects\antlr_test\antlr_test\obj\Debug\antlr_test.csproj.CoreCompileInputs.cache
+C:\Users\jlips\documents\visual studio 2017\Projects\antlr_test\antlr_test\obj\Debug\antlr_test.exe
+C:\Users\jlips\documents\visual studio 2017\Projects\antlr_test\antlr_test\obj\Debug\antlr_test.pdb
+C:\Users\jlips\Documents\Visual Studio 2017\Projects\antlr_test\antlr_test\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\jlips\Documents\Visual Studio 2017\Projects\antlr_test\antlr_test\bin\Debug\Antlr4.Runtime.Standard.xml

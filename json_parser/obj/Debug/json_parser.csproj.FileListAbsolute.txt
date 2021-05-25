@@ -1,0 +1,10 @@
+\\IguanaBox\homes\sdiguana\Programming\C#\antlr_test\json_parser\bin\Debug\antlr_test.exe.config
+\\IguanaBox\homes\sdiguana\Programming\C#\antlr_test\json_parser\bin\Debug\antlr_test.exe
+\\IguanaBox\homes\sdiguana\Programming\C#\antlr_test\json_parser\bin\Debug\antlr_test.pdb
+\\IguanaBox\homes\sdiguana\Programming\C#\antlr_test\json_parser\bin\Debug\Antlr4.Runtime.Standard.dll
+\\IguanaBox\homes\sdiguana\Programming\C#\antlr_test\json_parser\bin\Debug\Antlr4.Runtime.Standard.xml
+\\IguanaBox\homes\sdiguana\Programming\C#\antlr_test\json_parser\obj\Debug\json_parser.csprojAssemblyReference.cache
+\\IguanaBox\homes\sdiguana\Programming\C#\antlr_test\json_parser\obj\Debug\json_parser.csproj.CoreCompileInputs.cache
+\\IguanaBox\homes\sdiguana\Programming\C#\antlr_test\json_parser\obj\Debug\json_parser.csproj.CopyComplete
+\\IguanaBox\homes\sdiguana\Programming\C#\antlr_test\json_parser\obj\Debug\antlr_test.exe
+\\IguanaBox\homes\sdiguana\Programming\C#\antlr_test\json_parser\obj\Debug\antlr_test.pdb
